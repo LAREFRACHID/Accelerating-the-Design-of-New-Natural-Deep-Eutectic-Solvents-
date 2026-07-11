@@ -25,9 +25,7 @@ It can be  downloaded from this link: https://zenodo.org/records/21303632
 
 
 
-or directly from:
 
-https://zenodo.org/record/7019751
 
 After downloading the database, place the corresponding file in the appropriate data directory before running the pipeline.
 
